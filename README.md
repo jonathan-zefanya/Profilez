@@ -6,7 +6,7 @@
 **Profilez** adalah sebuah platform berbasis web (SaaS) yang memungkinkan pengguna untuk membuat portfolio profesional, CV online, dan vCard digital dengan mudah dan cepat. Proyek ini dirancang untuk membantu freelancer, profesional, dan agensi membangun identitas digital mereka tanpa perlu koding.
 
 🔗 **Live Demo:** [https://porto.zyrex.win](https://porto.zyrex.win)  
-📂 **Repository:** [https://github.com/jonathan-zefanya/porto](https://github.com/jonathan-zefanya/porto)
+📂 **Repository:** [https://github.com/jonathan-zefanya/Profilez](https://github.com/jonathan-zefanya/Profilez)
 
 ---
 
@@ -54,7 +54,7 @@ Jika Anda ingin menjalankan proyek ini di mesin lokal Anda untuk pengembangan:
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/jonathan-zefanya/porto.git](https://github.com/jonathan-zefanya/porto.git)
+    git clone [https://github.com/jonathan-zefanya/Profilez.git](https://github.com/jonathan-zefanya/Profilez.git)
     cd porto
     ```
 
