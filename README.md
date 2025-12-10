@@ -42,7 +42,7 @@ Proyek ini dikembangkan menggunakan teknologi web modern:
 
 * **Bahasa:** PHP, JavaScript, HTML5, CSS3
 * **Database:** MySQL
-* **Framework/Library:** (Isi dengan framework yang digunakan, misal: Laravel / CodeIgniter / Native)
+* **Framework/Library:** Laravel
 * **Frontend:** Bootstrap, jQuery
 * **Server:** Apache/Nginx
 
